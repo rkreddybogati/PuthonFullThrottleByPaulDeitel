@@ -34,9 +34,15 @@ The audio and video should be good for all. If you are having any issues, please
 
 ## Useful Links:
 https://deitel.com/LearnWithDeitel
+
 https://www.oreilly.com/library/view/c20-fundamentals/9780136875185/
+
 https://github.com/pdeitel/PythonFullThrottle
+
 https://www.anaconda.com/download
+
 https://mybinder.org/v2/gh/pdeitel/PythonFullThrottle/HEAD?urlpath=lab
+
 https://colab.research.google.com/?utm_source=scs-index
+
 
