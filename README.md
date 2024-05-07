@@ -24,7 +24,7 @@ They provide installers for Windows, macOS and Linux. Anaconda installs everythi
 
 Anaconda defaults to Python 3.11, so if you want a Python 3.12 environment, from the root folder of my content you can run the following commands at your command line to create an environment named py3_12 then activate it.
 
-Commanda for installing Anaconda: 
+### Commanda for installing Anaconda: 
 
 conda env create --file environment.3.12.yml
 
