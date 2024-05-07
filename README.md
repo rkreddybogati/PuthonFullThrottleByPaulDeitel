@@ -1,5 +1,5 @@
-# PuthonFullThrottleByPaulDeitel
-Puthon Full Throttle By PaulDeitel
+# Puthon Full Throttle By Paul Deitel
+
 
 ## Opening Notes:
 https://on24static.akamaized.net/event/45/17/49/2/rt/1/documents/resourceList1713971859345/pythonftopeningnotes.pdf  
