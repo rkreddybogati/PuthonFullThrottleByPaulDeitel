@@ -1,4 +1,4 @@
-# Puthon Full Throttle By Paul Deitel
+# Python Full Throttle By Paul Deitel
 
 
 ## Opening Notes:
